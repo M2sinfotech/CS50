@@ -1,7 +1,9 @@
+#include<cs50.h>
 #include<stdio.h>
 
 int main(void)
 {
-    printf("Assalamualaikum, world!");
+    string name = get_string("Enter Your Name:");
+    printf("Assalamualaikum, %s!", name);
     printf("\n");
 }

@@ -1,0 +1,12 @@
+rollno
+Initials
+Marks
+Maths=3
+Science=4
+S.ST.=1
+Urdu=5
+English=4
+total=Marks(using a function)
+percentage=(obtained marks/Max marks)*100
+text message:
+Salaams M, your toal marks are 17/20 and your percentage is 87.
